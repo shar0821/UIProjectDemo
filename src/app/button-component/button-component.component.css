@@ -1,0 +1,25 @@
+#button1 {
+  padding: 6 px;
+  min-width: 88px;
+  border-radius: 3px;
+  background-color: red;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration:none;
+  border: none;
+  outline: none;
+}
+
+#button1:active{
+  padding: 6 px;
+  min-width: 88px;
+  border-radius: 3px;
+  background-color: greenyellow;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
